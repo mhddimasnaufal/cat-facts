@@ -8,7 +8,7 @@ menggunakan Bootstrap 5.
 
 LIVE DEMO
 =========
-[https://cat-facts-uas-dimas.netlify.app](https://catfacts-app.netlify.app/)
+[https://catfacts-app.netlify.app](https://catfacts-app.netlify.app/)
 
 
 API YANG DIGUNAKAN
