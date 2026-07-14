@@ -143,7 +143,7 @@ Prasyarat:
 Langkah-langkah:
 
 1. Clone repository
-   git clone [https://github.com/MhdDimasNaufal/cat-facts.git](https://github.com/mhddimasnaufal/cat-facts.git)
+   git clone [https://github.com/mhddimasnaufal/cat-facts.git](https://github.com/mhddimasnaufal/cat-facts.git)
    cd cat-facts
 
 2. Install semua dependensi
