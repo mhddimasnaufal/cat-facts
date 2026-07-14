@@ -244,7 +244,7 @@ IDENTITAS
 Nama           : Mhd Dimas Naufal
 NIM            : 2405010018
 Mata Kuliah    : Kerangka Kerja Pengembangan Antarmuka Website (KKPAW)
-Tugas          : UAS Semester Genap 2024/2025
+Tugas          : UAS Semester Genap
 Program Studi  : Teknologi Rekayasa Perangkat Lunak
 Universitas    : Politeknik Wilmar Bisnis Indonesia
 
