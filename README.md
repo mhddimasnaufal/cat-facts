@@ -1,4 +1,4 @@
-CAT FACTS APP - UAS KKPAW
+CAT FACTS APP
 =========================
 
 Aplikasi React JS untuk menampilkan fakta-fakta kucing dari Cat Facts API 
